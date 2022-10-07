@@ -1,37 +1,40 @@
-### Hi there 👋
-## I'm Salatiel Luz Marinho
-- I live in :brazil:
-- I have been working on BRQ as backend developer :computer:
-- I have been working on Universidade Paulista as teacher 👨‍🏫:
-- I have been learnig more about Solidity :sparkling_heart:
+"Um código limpo sempre parece que foi escrito por alguém que se importava." - Michael Feathers
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/salatielmarinho/" target="_blank">
-<img align="center" alt="salatielmarinho-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="https://www.twitter.com/tielmarinho/" target="_blank">
-<img align="center" alt="tielmarinho-twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;">
-</a>
+"Se os programadores não estão interessados no domínio, eles aprendem apenas o que a aplicação deve fazer, não os princípios por trás dela. Software útil pode ser desenvolvido dessa maneira, mas o projeto nunca chegará em um ponto onde novas funcionalidades poderosas surgirão como desdobramento de funcionalidades existentes." - Eric Evans
 
-## My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodeJs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+"O Design Estratégico é como fazer o rascunho antes de entrar nos detalhes da implementação. Que ele destaca o que é estrategicamente importante para o negócio; como dividir o trabalho por importância; e como fazer integrações da melhor maneira." - Vaughn Vernon
 
-## Learning
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typeScript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="max-width:100%;"></img>
+Olá! eu sou o Salatiel, muito prazer! 
 
-## My Another Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40" style="max-width:100%;"></img>
+Eu resolvo problemas complexos através do desenvolvimento de software e automatização de processos. 
 
-[![salatielmarinho's github stats](https://github-readme-stats.vercel.app/api?username=salatielmarinho&show_icons=true&count_private=true&theme=radical)
+Tenho uma paixão por tecnologia, sou defensor de um código limpo! 
+
+Adoro compartilhar conhecimento! Te convido a ler alguns artigos no meu blog: https://medium.com/@salatielmarinho
+
+- Autodidata;
+- Boa relação interpessoal;
+- Habilidades de auto gerenciamento;
+- Busca contínua por melhorias no time que trabalho, no fluxo de trabalho e em mim mesmo;
+
+➡ Conhecimento/Experiência em:
+- SOLID - (Michael Feathers) | Clean Code - (Robert Cecil Martin - Uncle Bob);
+ - Git;
+ - Experiência no desenvolvimento de APIs REST;
+ - Programação assíncrona ou relacionada a arquitetura orientada a eventos;
+ - Experiência na realização de testes automatizados e refatoração de código;
+ - Confortável com ambiente Unix;
+ - Capacidade de elaborar scripts de automação (bash).
+ - Conhecimentos em automação de CI/CD (Gitlab CI);
+ - Confortável com ambientes Cloud (AWS);
+ - Experiência com banco de dados NoSQL ( MongoDB);
+ - Conhecimento em FrontEnd (Html, CSS, Bootstrap, Javascript e Jquery);
+
+➡ Ferramentas:
+ - Visual Studio Code | Sublime;
+ - Jira | Slack | Trello;
+ - Github;
+
+➡ Características | Hobbies:
+ - Músico; 
+ - Conversor de café em código. Sim... eu amo Café!
